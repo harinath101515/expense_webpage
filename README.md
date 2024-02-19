@@ -1,2 +1,2 @@
-# hari-website
-Developing a website for my own 
+# expense wepage
+Developing a website to list the expenses of a Shop 
